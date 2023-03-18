@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/DesignPrinciples/DesignPrinciples.iml" filepath="$PROJECT_DIR$/DesignPrinciples/DesignPrinciples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DesignPrinciples/ProgrammingToAnInterface/ProgrammingToAnInterface.iml" filepath="$PROJECT_DIR$/DesignPrinciples/ProgrammingToAnInterface/ProgrammingToAnInterface.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java-design-patterns-course.iml" filepath="$PROJECT_DIR$/.idea/java-design-patterns-course.iml" />
     </modules>
   </component>
