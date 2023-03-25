@@ -1,6 +1,8 @@
+package builder;
+
 public class Client {
     public static void main(String[] args) {
-        System.out.println("Builder Pattern Demo");
+        System.out.println("builder.Builder Pattern Demo");
         Director director = new Director();
         Builder carBuilder = new Car();
         Builder motorBuilder = new Motorcycle();

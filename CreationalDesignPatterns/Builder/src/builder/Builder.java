@@ -1,3 +1,5 @@
+package builder;
+
 public interface Builder {
     void buildBody();
     void insertWheels();
