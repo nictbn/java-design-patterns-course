@@ -14,6 +14,7 @@
       <module fileurl="file://$PROJECT_DIR$/DesignPrinciples/LiskovSubstitutionPrinciple/LiskovSubstitutionPrinciple.iml" filepath="$PROJECT_DIR$/DesignPrinciples/LiskovSubstitutionPrinciple/LiskovSubstitutionPrinciple.iml" />
       <module fileurl="file://$PROJECT_DIR$/DesignPrinciples/OpenClosedPrinciple/OpenClosedPrinciple.iml" filepath="$PROJECT_DIR$/DesignPrinciples/OpenClosedPrinciple/OpenClosedPrinciple.iml" />
       <module fileurl="file://$PROJECT_DIR$/DesignPrinciples/ProgrammingToAnInterface/ProgrammingToAnInterface.iml" filepath="$PROJECT_DIR$/DesignPrinciples/ProgrammingToAnInterface/ProgrammingToAnInterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CreationalDesignPatterns/Prototype/Prototype.iml" filepath="$PROJECT_DIR$/CreationalDesignPatterns/Prototype/Prototype.iml" />
       <module fileurl="file://$PROJECT_DIR$/DesignPrinciples/SingleResponsibilityPrinciple/SingleResponsibilityPrinciple.iml" filepath="$PROJECT_DIR$/DesignPrinciples/SingleResponsibilityPrinciple/SingleResponsibilityPrinciple.iml" />
       <module fileurl="file://$PROJECT_DIR$/CreationalDesignPatterns/Singleton/Singleton.iml" filepath="$PROJECT_DIR$/CreationalDesignPatterns/Singleton/Singleton.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java-design-patterns-course.iml" filepath="$PROJECT_DIR$/.idea/java-design-patterns-course.iml" />
