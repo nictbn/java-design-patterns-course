@@ -1,11 +1,11 @@
-package example;
+package example1;
 
-public class Developer implements  Employee {
+public class Manager implements Employee {
     private final String name;
     private final Long employeeId;
     private final String position;
 
-    public Developer(Long employeeId, String name, String position) {
+    public Manager(Long employeeId, String name, String position) {
         this.name = name;
         this.employeeId = employeeId;
         this.position = position;
