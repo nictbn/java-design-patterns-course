@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CreationalDesignPatterns/AbstractFactoryMethod/AbstractFactoryMethod.iml" filepath="$PROJECT_DIR$/CreationalDesignPatterns/AbstractFactoryMethod/AbstractFactoryMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StructuralDesignPatterns/Adapter/Adapter.iml" filepath="$PROJECT_DIR$/StructuralDesignPatterns/Adapter/Adapter.iml" />
       <module fileurl="file://$PROJECT_DIR$/CreationalDesignPatterns/Builder/Builder.iml" filepath="$PROJECT_DIR$/CreationalDesignPatterns/Builder/Builder.iml" />
       <module fileurl="file://$PROJECT_DIR$/CreationalDesignPatterns/CreationalDesignPatterns.iml" filepath="$PROJECT_DIR$/CreationalDesignPatterns/CreationalDesignPatterns.iml" />
       <module fileurl="file://$PROJECT_DIR$/DesignPrinciples/DelegationPrinciple/DelegationPrinciple.iml" filepath="$PROJECT_DIR$/DesignPrinciples/DelegationPrinciple/DelegationPrinciple.iml" />
@@ -17,6 +18,7 @@
       <module fileurl="file://$PROJECT_DIR$/CreationalDesignPatterns/Prototype/Prototype.iml" filepath="$PROJECT_DIR$/CreationalDesignPatterns/Prototype/Prototype.iml" />
       <module fileurl="file://$PROJECT_DIR$/DesignPrinciples/SingleResponsibilityPrinciple/SingleResponsibilityPrinciple.iml" filepath="$PROJECT_DIR$/DesignPrinciples/SingleResponsibilityPrinciple/SingleResponsibilityPrinciple.iml" />
       <module fileurl="file://$PROJECT_DIR$/CreationalDesignPatterns/Singleton/Singleton.iml" filepath="$PROJECT_DIR$/CreationalDesignPatterns/Singleton/Singleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StructuralDesignPatterns/StructuralDesignPatterns.iml" filepath="$PROJECT_DIR$/StructuralDesignPatterns/StructuralDesignPatterns.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java-design-patterns-course.iml" filepath="$PROJECT_DIR$/.idea/java-design-patterns-course.iml" />
     </modules>
   </component>
