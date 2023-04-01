@@ -1,4 +1,6 @@
-package example;
+package example.abstraction;
+
+import example.implementer.Workshop;
 
 public class Bike extends Vehicle {
     public Bike(Workshop workshop1, Workshop workshop2) {

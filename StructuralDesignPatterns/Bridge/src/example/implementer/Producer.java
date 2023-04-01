@@ -1,4 +1,4 @@
-package example;
+package example.implementer;
 
 public class Producer extends Workshop {
     @Override

@@ -1,4 +1,6 @@
-package example;
+package example.abstraction;
+
+import example.implementer.Workshop;
 
 public abstract class Vehicle {
     protected Workshop workshop1;
