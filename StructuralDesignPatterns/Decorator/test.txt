@@ -1,0 +1,1 @@
+This is just TEXT that SHOULD Be ConverTed To lOwerCASE!
