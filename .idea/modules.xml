@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/CreationalDesignPatterns/Builder/Builder.iml" filepath="$PROJECT_DIR$/CreationalDesignPatterns/Builder/Builder.iml" />
       <module fileurl="file://$PROJECT_DIR$/StructuralDesignPatterns/Composite/Composite.iml" filepath="$PROJECT_DIR$/StructuralDesignPatterns/Composite/Composite.iml" />
       <module fileurl="file://$PROJECT_DIR$/CreationalDesignPatterns/CreationalDesignPatterns.iml" filepath="$PROJECT_DIR$/CreationalDesignPatterns/CreationalDesignPatterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StructuralDesignPatterns/Decorator/Decorator.iml" filepath="$PROJECT_DIR$/StructuralDesignPatterns/Decorator/Decorator.iml" />
       <module fileurl="file://$PROJECT_DIR$/DesignPrinciples/DelegationPrinciple/DelegationPrinciple.iml" filepath="$PROJECT_DIR$/DesignPrinciples/DelegationPrinciple/DelegationPrinciple.iml" />
       <module fileurl="file://$PROJECT_DIR$/DesignPrinciples/DependencyInjection/DependencyInjection.iml" filepath="$PROJECT_DIR$/DesignPrinciples/DependencyInjection/DependencyInjection.iml" />
       <module fileurl="file://$PROJECT_DIR$/DesignPrinciples/DependencyInversionPrinciple/DependencyInversionPrinciple.iml" filepath="$PROJECT_DIR$/DesignPrinciples/DependencyInversionPrinciple/DependencyInversionPrinciple.iml" />
