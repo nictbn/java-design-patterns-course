@@ -4,8 +4,10 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CreationalDesignPatterns/AbstractFactoryMethod/AbstractFactoryMethod.iml" filepath="$PROJECT_DIR$/CreationalDesignPatterns/AbstractFactoryMethod/AbstractFactoryMethod.iml" />
       <module fileurl="file://$PROJECT_DIR$/StructuralDesignPatterns/Adapter/Adapter.iml" filepath="$PROJECT_DIR$/StructuralDesignPatterns/Adapter/Adapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BehaviouralPatterns/BehaviouralPatterns.iml" filepath="$PROJECT_DIR$/BehaviouralPatterns/BehaviouralPatterns.iml" />
       <module fileurl="file://$PROJECT_DIR$/StructuralDesignPatterns/Bridge/Bridge.iml" filepath="$PROJECT_DIR$/StructuralDesignPatterns/Bridge/Bridge.iml" />
       <module fileurl="file://$PROJECT_DIR$/CreationalDesignPatterns/Builder/Builder.iml" filepath="$PROJECT_DIR$/CreationalDesignPatterns/Builder/Builder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BehaviouralPatterns/ChainOfResponsibility/ChainOfResponsibility.iml" filepath="$PROJECT_DIR$/BehaviouralPatterns/ChainOfResponsibility/ChainOfResponsibility.iml" />
       <module fileurl="file://$PROJECT_DIR$/StructuralDesignPatterns/Composite/Composite.iml" filepath="$PROJECT_DIR$/StructuralDesignPatterns/Composite/Composite.iml" />
       <module fileurl="file://$PROJECT_DIR$/CreationalDesignPatterns/CreationalDesignPatterns.iml" filepath="$PROJECT_DIR$/CreationalDesignPatterns/CreationalDesignPatterns.iml" />
       <module fileurl="file://$PROJECT_DIR$/StructuralDesignPatterns/Decorator/Decorator.iml" filepath="$PROJECT_DIR$/StructuralDesignPatterns/Decorator/Decorator.iml" />
