@@ -2,7 +2,7 @@ package first_example;
 
 public class Client {
     public static void main(String[] args) throws Exception {
-        System.out.println("First Flyweight Pattern example\n");
+        System.out.println("First Flyweight Pattern Example\n");
 
         RobotFactory factory = new RobotFactory();
         Robot robot = factory.getRobot("small");
