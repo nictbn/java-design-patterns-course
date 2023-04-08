@@ -15,6 +15,7 @@
       <module fileurl="file://$PROJECT_DIR$/DesignPrinciples/DesignPrinciples.iml" filepath="$PROJECT_DIR$/DesignPrinciples/DesignPrinciples.iml" />
       <module fileurl="file://$PROJECT_DIR$/StructuralDesignPatterns/Facade/Facade.iml" filepath="$PROJECT_DIR$/StructuralDesignPatterns/Facade/Facade.iml" />
       <module fileurl="file://$PROJECT_DIR$/CreationalDesignPatterns/FactoryMethod/FactoryMethod.iml" filepath="$PROJECT_DIR$/CreationalDesignPatterns/FactoryMethod/FactoryMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StructuralDesignPatterns/Flyweight/Flyweight.iml" filepath="$PROJECT_DIR$/StructuralDesignPatterns/Flyweight/Flyweight.iml" />
       <module fileurl="file://$PROJECT_DIR$/DesignPrinciples/InterfaceSegregationPrinciple/InterfaceSegregationPrinciple.iml" filepath="$PROJECT_DIR$/DesignPrinciples/InterfaceSegregationPrinciple/InterfaceSegregationPrinciple.iml" />
       <module fileurl="file://$PROJECT_DIR$/DesignPrinciples/LiskovSubstitutionPrinciple/LiskovSubstitutionPrinciple.iml" filepath="$PROJECT_DIR$/DesignPrinciples/LiskovSubstitutionPrinciple/LiskovSubstitutionPrinciple.iml" />
       <module fileurl="file://$PROJECT_DIR$/DesignPrinciples/OpenClosedPrinciple/OpenClosedPrinciple.iml" filepath="$PROJECT_DIR$/DesignPrinciples/OpenClosedPrinciple/OpenClosedPrinciple.iml" />
