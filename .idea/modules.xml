@@ -23,6 +23,7 @@
       <module fileurl="file://$PROJECT_DIR$/BehaviouralPatterns/Interpreter/Interpreter.iml" filepath="$PROJECT_DIR$/BehaviouralPatterns/Interpreter/Interpreter.iml" />
       <module fileurl="file://$PROJECT_DIR$/BehaviouralPatterns/Iterator/Iterator.iml" filepath="$PROJECT_DIR$/BehaviouralPatterns/Iterator/Iterator.iml" />
       <module fileurl="file://$PROJECT_DIR$/DesignPrinciples/LiskovSubstitutionPrinciple/LiskovSubstitutionPrinciple.iml" filepath="$PROJECT_DIR$/DesignPrinciples/LiskovSubstitutionPrinciple/LiskovSubstitutionPrinciple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BehaviouralPatterns/Mediator/Mediator.iml" filepath="$PROJECT_DIR$/BehaviouralPatterns/Mediator/Mediator.iml" />
       <module fileurl="file://$PROJECT_DIR$/DesignPrinciples/OpenClosedPrinciple/OpenClosedPrinciple.iml" filepath="$PROJECT_DIR$/DesignPrinciples/OpenClosedPrinciple/OpenClosedPrinciple.iml" />
       <module fileurl="file://$PROJECT_DIR$/DesignPrinciples/ProgrammingToAnInterface/ProgrammingToAnInterface.iml" filepath="$PROJECT_DIR$/DesignPrinciples/ProgrammingToAnInterface/ProgrammingToAnInterface.iml" />
       <module fileurl="file://$PROJECT_DIR$/CreationalDesignPatterns/Prototype/Prototype.iml" filepath="$PROJECT_DIR$/CreationalDesignPatterns/Prototype/Prototype.iml" />
