@@ -36,6 +36,7 @@
       <module fileurl="file://$PROJECT_DIR$/BehaviouralPatterns/Strategy/Strategy.iml" filepath="$PROJECT_DIR$/BehaviouralPatterns/Strategy/Strategy.iml" />
       <module fileurl="file://$PROJECT_DIR$/StructuralDesignPatterns/StructuralDesignPatterns.iml" filepath="$PROJECT_DIR$/StructuralDesignPatterns/StructuralDesignPatterns.iml" />
       <module fileurl="file://$PROJECT_DIR$/BehaviouralPatterns/TemplateMethod/TemplateMethod.iml" filepath="$PROJECT_DIR$/BehaviouralPatterns/TemplateMethod/TemplateMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BehaviouralPatterns/Visitor/Visitor.iml" filepath="$PROJECT_DIR$/BehaviouralPatterns/Visitor/Visitor.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java-design-patterns-course.iml" filepath="$PROJECT_DIR$/.idea/java-design-patterns-course.iml" />
     </modules>
   </component>
